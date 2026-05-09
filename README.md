@@ -118,22 +118,7 @@ Content-Type: application/json
 GET /metrics
 ```
 
-## Where You Can Run This Project
 
-You can run this project in any of these places:
-
-1. Local laptop using VS Code and Node.js
-2. GitHub Codespaces
-3. Replit
-4. Render
-5. Railway
-6. Glitch
-
-For submission, the easiest option is:
-
-- Create a GitHub repository
-- Upload this project
-- Add screenshots or a short Postman/CLI demo
 
 ## CLI Demo Flow
 
