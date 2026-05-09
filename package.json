@@ -4,7 +4,7 @@
   "description": "Beginner-friendly Node.js/Express load balancer using consistent hashing, health checks, weighted routing, metrics and rate limiting.",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node server.js",
     "dev": "nodemon src/server.js"
   },
   "keywords": ["load-balancer", "consistent-hashing", "express", "nodejs"],
